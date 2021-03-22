@@ -197,4 +197,8 @@ text-decoration:none;
 	#menu-tile, #specials-tile{
 		width: 280px;
 		margin: 0 auto 15px;
+	}
+	#menu-tile span, #specials-tile span, #map-tile span{
+	font-size: 1em;
+	}
 }
